@@ -1,1 +1,1 @@
-# open-kahoot-backend
+# Quizard backend
